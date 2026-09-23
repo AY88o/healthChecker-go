@@ -1,0 +1,6 @@
+/healthChecker-go
+
+*.exe 
+*.test
+
+
