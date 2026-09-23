@@ -8,7 +8,7 @@
   ---
 ### Installation & Usage Guide
 ```
-https://github.com/AY88o/healthChecker-go.git
+go install https://github.com/AY88o/healthChecker-go.git
 ```
 
 **Display Help Menu**
